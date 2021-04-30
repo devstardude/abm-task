@@ -1,0 +1,32 @@
+.ScreenOneTable-MainDiv{
+    margin-top: 27px;
+    margin-left: 109px;
+    margin-right: 99px;
+}
+.ScreenOneTable-TableHead{
+    background-color: #e4e5e4!important;
+}
+.ScreenOneTable-RadioButonRow{
+    margin-right: 0!important;
+    max-width: 1px!important;
+}
+.ScreenOneTable-AccessRow{
+    text-align: center;
+}
+
+.ScreenOneTable-Access{
+    width: 160px;
+    height: 30px;
+}
+.ScreenOneTable-Access-Allowed{
+    background-color: #bfe7ce;
+}
+.ScreenOneTable-Access-Denied{
+    background-color: #ffb5b5;
+}
+.ScreenOneTable-Text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.2px;
+}

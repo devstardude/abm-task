@@ -1,0 +1,29 @@
+.CollapsedDiv-MainDiv {
+  margin-top: 0;
+  margin-left: 75px;
+}
+.CollapsedDiv-SecondaryDiv {
+  margin-left: 68px;
+}
+.CollapsedDiv-AccessControls {
+  border-right: 1px solid #e0e0e0;
+  padding-right: 20px;
+  margin-top: 27px;
+  margin-bottom: 7px;
+}
+.CollapsedDiv-AccessControls-Heading {
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.2px;
+}
+.CollapsedDiv-AccessControls-Options {
+  margin-top: 19px;
+}
+
+.CollapsedDiv-Permissions {
+  margin-top: 27px;
+  margin-bottom: 7px;
+  margin-left: 71px;
+}

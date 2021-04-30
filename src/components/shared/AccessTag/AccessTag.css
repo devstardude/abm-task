@@ -1,0 +1,20 @@
+.AccessRow{
+    text-align: center;
+}
+
+.Access{
+    width: 160px;
+    height: 30px;
+}
+.Access-Allowed{
+    color: #27AE60;
+    background-color: #bfe7ce;
+}
+.Access-Denied{
+    color:#FF0808;
+    background-color: #ffb5b5;
+}
+.No-Access{
+    color:#BDBDBD;
+    background-color: #F2F2F2;
+}

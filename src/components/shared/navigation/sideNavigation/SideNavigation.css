@@ -1,0 +1,29 @@
+.SideNavigation-Main {
+  position: absolute;
+  width: 310px;
+  height: 100vh;
+  margin-left: 10px;
+  background-color: #fcfbff;
+}
+.SideNavigation-BrandNameDiv {
+  width: 310px;
+  height: 74px;
+  background-color: #ffffff;
+}
+.SideNavigation-Logo {
+  padding-left: 17px;
+  padding-right: 27px;
+}
+
+.SideNavigation-Title {
+  font-size: 30px;
+  font-weight: 900;
+  color: #330b86;
+}
+
+.NavigationTabs-SvgLogo {
+  color: inherit;
+}
+.NavigationTabs-SvgLogo:hover {
+  color: inherit;
+}

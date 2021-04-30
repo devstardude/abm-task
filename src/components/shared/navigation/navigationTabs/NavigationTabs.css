@@ -1,0 +1,54 @@
+.Active {
+  border-left: 7px solid #756899;
+}
+
+.NavigationTabs-TabsMainDiv:hover {
+  border-left: none;
+}
+.NavigationTabs-TabsNameDiv {
+  width: 310px;
+  height: 74px;
+}
+.Active :hover {
+  color: #663bb7;
+  background-color: #e1d8f1;
+  border-left: 7px solid #663bb7;
+}
+
+.NavigationTabs-TabsLogo {
+  border: none !important;
+  padding-left: 19px;
+  padding-right: 28px;
+}
+.NavigationTabs-TabsName {
+  border: none !important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: inherit;
+  letter-spacing: 0.2px;
+}
+
+.NavigationTabs-TabsName:hover {
+  color: inherit;
+}
+
+.NavigationTabs-Active {
+  color:  #828282;
+  background-color: #fcfbff;
+  border-left: 7px solid #ffffff;
+  transition: 0.3s;
+}
+.NavigationTabs-Active:hover,
+.NavigationTabs-Active:active {
+  color: #663bb7!important;
+  background-color: #e1d8f1;
+  border-left: 7px solid #663bb7;
+}
+
+.NavigationTabs-ActiveState {
+  color: #663bb7 !important;
+  background-color: #e1d8f1 !important;
+  border-left: 7px solid #663bb7 !important;
+}

@@ -1,0 +1,14 @@
+.AddRoleDiv-MainDiv {
+  margin-top: 38px;
+  margin-left: 110px;
+}
+.AddRoleDiv-Button {
+  padding: 12px 29px !important;
+  color: white !important;
+  background-color: #663bb7 !important;
+  border-radius: 5px !important;
+}
+.AddRoleDiv-Button:active,
+.AddRoleDiv-Button:focus {
+  outline: none !important;
+}

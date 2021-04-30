@@ -1,0 +1,17 @@
+.ProfileInfoDiv-MainDiv{
+    padding-top: 24px;
+}
+.ProfileInfoDiv-HelpIcon{
+    margin-right: 58px;
+}
+.ProfileInfoDiv-NotificationIcon{
+    margin-right: 22px;
+    margin-left: 43px;
+}
+.ProfileInfoDiv-DpIcon{
+    border-radius: 50%;
+    margin-right: 17px;
+}
+.ProfileInfoDiv-Name{
+    color: black;
+}

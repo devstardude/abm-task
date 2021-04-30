@@ -1,0 +1,28 @@
+.AccessControlDiv-MainDiv {
+  margin-left: 108px;
+  margin-top: 52px;
+}
+.AccessControlDiv-SecondDiv {
+  margin-left: 40px;
+  position: relative;
+  padding-bottom: 15px;
+}
+.AccessControlDiv-ThirdDiv {
+  margin-left: 25px;
+  position: relative;
+  padding-bottom: 15px;
+}
+.AccessControlDiv-BorderBottom {
+  position: absolute;
+  bottom: 0;
+  width: 130px;
+  border-bottom: 6px solid #663bb7;
+  border-radius: 10px 10px 0px 0px;
+}
+.AccessControlDiv-Divider {
+  height: 30px;
+  border-left: 2px solid #cfd3da;
+}
+.AccessControlDiv-SyncInfo {
+  padding-right: 87px;
+}

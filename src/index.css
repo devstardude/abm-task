@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+h1,h2,h3,h4,h5,h6,p{
+  padding: 0;
+  margin: 0;
+}
+img{
+  cursor: pointer;
+}
+hr {
+  border: 1px solid rgba(207, 211, 218, 0.5);
+  border-style: solid none;
+}
+.MuiButtonBase-root:focus{
+outline: none!important;
+}
